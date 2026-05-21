@@ -10,9 +10,9 @@ A complete toolkit for **capturing, saving, and replaying infrared (IR) remote c
 replay_attack/
 ├── ir_capture.py        # CLI tool: capture IR signals & save the ones that work
 ├── ir_play.py           # CLI tool: load saved signals and replay them on demand
-├── ir_gui.pyw           # GUI tool: visual remote control window (pygame)
+├── ir_gui.pyw           # GUI tool: visual remote control window (pygame)(you need to name the buttons as follows below)
 ├── wiring.txt           # Hardware wiring reference
-├── ir_saved/            # Saved IR signal files (JSON), one per button
+├── ir_saved/            # Saved IR signal sample files (JSON), one per button,delete them before using
 │   ├── power.json
 │   ├── mute.json
 │   ├── volume_up.json
