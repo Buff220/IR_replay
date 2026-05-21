@@ -1,0 +1,12 @@
+{
+  "name": "power",
+  "created": "2026-05-21T14:34:19.384237",
+  "signals": [
+    {
+      "protocol": "NEC2",
+      "address": "0x4",
+      "command": "0x8",
+      "saved_at": "2026-05-21T14:34:19.384278"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "mute",
+  "created": "2026-05-21T14:46:02.466990",
+  "signals": [
+    {
+      "protocol": "NEC2",
+      "address": "0x4",
+      "command": "0x9",
+      "saved_at": "2026-05-21T14:46:02.467026"
+    }
+  ]
+}

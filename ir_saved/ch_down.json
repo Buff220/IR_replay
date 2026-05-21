@@ -1,0 +1,12 @@
+{
+  "name": "ch_down",
+  "created": "2026-05-21T14:29:10.789907",
+  "signals": [
+    {
+      "protocol": "NEC2",
+      "address": "0x4",
+      "command": "0x1",
+      "saved_at": "2026-05-21T14:29:10.789933"
+    }
+  ]
+}

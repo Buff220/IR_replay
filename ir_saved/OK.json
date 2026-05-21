@@ -1,0 +1,12 @@
+{
+  "name": "OK",
+  "created": "2026-05-21T14:45:45.309026",
+  "signals": [
+    {
+      "protocol": "NEC2",
+      "address": "0x4",
+      "command": "0x44",
+      "saved_at": "2026-05-21T14:45:45.309077"
+    }
+  ]
+}
